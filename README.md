@@ -1,4 +1,4 @@
-<h1 align="center">Приветствую, меня зовут<a href="https://vk.com/meshokofgovno" target="_blank">Михаил</a> 
+<h1 align="center">Приветствую, меня зовут <a href="https://vk.com/meshokofgovno" target="_blank">Михаил</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Студент ПНИПУ по специальности Информационные системы и технологии</h3>
 <h3 align="center">Здесь вы можете посмотреть моё портфолио с примерами кода</h3>
@@ -21,5 +21,9 @@
 
 <font size="10">Статистика по задачам:</font>
 <br>
-![codewars](https://www.codewars.com/users/Meshoknoragami/badges/large)](https://www.codewars.com/users/Meshoknoragami)
+<font size="8">CodeWars</font>
+<br>
+![codewars](https://www.codewars.com/users/Meshoknoragami/badges/large)
+<font size="8">LeetCode</font>
+<br>
 ![Meshok's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Meshoknoragami&theme=dark)
