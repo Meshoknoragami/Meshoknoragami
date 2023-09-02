@@ -21,9 +21,11 @@
 
 <font size="10">Статистика по задачам:</font>
 <br>
+
 <font size="8">CodeWars</font>
 <br>
 ![codewars](https://www.codewars.com/users/Meshoknoragami/badges/large)
+
 <font size="8">LeetCode</font>
 <br>
 ![Meshok's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Meshoknoragami&theme=dark)
