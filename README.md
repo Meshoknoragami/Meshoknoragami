@@ -1,4 +1,4 @@
-<h1 align="center">Приветствую, меня зовут <a href="https://vk.com/meshoknoragami" target="_blank">Михаил</a> 
+<h1 align="center">Приветствую, меня зовут Михаил
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Студент ПНИПУ по специальности Информационные системы и технологии</h3>
 <h3 align="center">Здесь вы можете посмотреть моё портфолио с примерами кода</h3>
