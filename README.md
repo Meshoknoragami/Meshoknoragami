@@ -25,9 +25,9 @@
 
 <br>
 <font size="10">Языки, которыми чаще всего пользуюсь:</font>
-<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meshoknoragami&layout=compact&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
+<br>
 
 <font size="10">Статистика по задачам:</font>
 <br>
